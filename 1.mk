@@ -1,3 +1,4 @@
 第一次添加
 这是master分支
 magichougit修改
+magichougit修改 测试是是否自动合并
